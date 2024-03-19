@@ -1,0 +1,85 @@
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Symbol.RFID3.Host.dll
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+H:\Workspace\TestZebra\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Downloads\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+C:\Users\Hoi Nguyen\Desktop\ZebraRFIDReader\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CopyComplete
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+D:\rostek\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CopyComplete
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.Form1.resources
+D:\rostek\rfid\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.GenerateResource.cache
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe.config
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.exe
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\TestZebraRFIDReader.pdb
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.AssemblyReference.cache
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.Form1.resources
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.GenerateResource.cache
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CoreCompileInputs.cache
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.csproj.CopyComplete
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.exe
+C:\Users\Precision\Downloads\ZebraRFIDReader-Canon\TestZebraRFIDReader\obj\Debug\TestZebraRFIDReader.pdb
